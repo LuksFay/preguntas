@@ -7,7 +7,7 @@ if(respuesta1 === 3 ){
     alert(`Correcto! tu puntaje es ${puntaje}`);
 }else{
     (puntaje=puntaje - 10);
-    alert(`Inorrecto >:c! tu puntaje es  ${puntaje}`);
+    alert(`Incorrecto >:c! tu puntaje es  ${puntaje}`);
 }
 
 
@@ -17,7 +17,7 @@ if(respuesta2 === 2){
     alert(`Correcto! tu puntaje es  ${puntaje}`);
 }else{
     (puntaje=puntaje - 10);
-    alert(`Inorrecto >:c! tu puntaje es  ${puntaje}`);
+    alert(`Incorrecto >:c! tu puntaje es  ${puntaje}`);
 }
 
 
@@ -27,7 +27,7 @@ if(respuesta3 === 1){
     alert(`Correcto! tu puntaje es  ${puntaje}`);
 }else{
     (puntaje=puntaje -10);
-    alert(`Inorrecto >:c! tu puntaje es  ${puntaje}`);
+    alert(`Incorrecto >:c! tu puntaje es  ${puntaje}`);
 }
 
 
@@ -37,7 +37,7 @@ if(respuesta4 === 1){
     alert(`Correcto! tu puntaje es  ${puntaje}`);
 }else{
     (puntaje=puntaje -10);
-    alert(`Inorrecto >:c! tu puntaje es  ${puntaje}`);
+    alert(`Incorrecto >:c! tu puntaje es  ${puntaje}`);
 }
 
 
@@ -47,6 +47,6 @@ if(respuesta5 === 3){
     alert(`Correcto! tu puntaje es  ${puntaje}`);
 }else{
     (puntaje=puntaje -10);
-    alert(`Inorrecto >:c! tu puntaje es  ${puntaje}`);
+    alert(`Incorrecto >:c! tu puntaje es  ${puntaje}`);
 }
 alert(`Terminaste! tu puntaje total es de  ${puntaje}`);
